@@ -1,0 +1,47 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.contenedor{
+    margin-top: 10px;
+    border:1px solid   rgb(227, 226, 226);
+    width:70% ;
+    height:667px;
+    border-radius:3px ;
+    
+}
+.contenedor-encabezado{
+    background-color: rgb(241, 245, 253);
+    border-bottom: 1px solid  rgb(227, 226, 226);
+    width: 100%;
+    padding: 5px;
+
+}
+.contenedor-cuerpo{
+   
+    
+    width: 95%;
+    height: 80%;
+    margin: auto;
+}
+.t-emergente{
+    color: rgb(104, 23, 23);
+  
+}
+.pago{
+    width:49%;
+    padding: 5px;
+}
+.anotacion{
+    font-size: smaller;
+    color: rgb(161, 159, 159);
+}
+.contenedor-footer{
+    border-top: 1px solid  rgb(227, 226, 226);
+    width: 100%;
+    padding: 5px;
+    background-color: rgb(241, 245, 253) ;
+   
+  
+}
